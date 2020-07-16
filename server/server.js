@@ -23,7 +23,7 @@ app.listen(process.env.PORT, () => {
     console.log("Escuchando el puerto: ", process.env.PORT);
 });
 
-//mongo atlas
+// mongo atlas
 //simba94
 //wYSqTJdA6uL1EnPL
 //mongodb+srv://simba94:wYSqTJdA6uL1EnPL@cluster0.oifdj.mongodb.net/cafe
