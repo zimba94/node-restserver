@@ -1,5 +1,5 @@
 const express = require("express");
-let { verificaToken, verificaRolAdmin } = require("../middlewares/autenticación");
+let { verificaToken, verificaRolAdmin } = require("../middlewares/autenticacion");
 let app = express();
 
 let Categoria = require("../models/categoria");

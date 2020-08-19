@@ -1,5 +1,5 @@
 const express = require("express");
-let { verificaToken } = require("../middlewares/autenticación");
+let { verificaToken } = require("../middlewares/autenticacion");
 const _ = require('underscore');
 let app = express();
 
